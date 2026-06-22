@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0739-daily-temperatures) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0918-maximum-sum-circular-subarray) |
+| [0922-sort-array-by-parity-ii](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0922-sort-array-by-parity-ii) |
 | [0978-longest-turbulent-subarray](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0978-longest-turbulent-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0876-middle-of-the-linked-list](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0876-middle-of-the-linked-list) |
+| [0922-sort-array-by-parity-ii](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0148-sort-list) |
+| [0922-sort-array-by-parity-ii](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0922-sort-array-by-parity-ii) |
 ## Merge Sort
 |  |
 | ------- |
