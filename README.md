@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0148-sort-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0922-sort-array-by-parity-ii) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Merge Sort
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0023-merge-k-sorted-lists) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Stack
 |  |
 | ------- |
