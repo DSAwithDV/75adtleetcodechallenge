@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0148-sort-list) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sliding Window
