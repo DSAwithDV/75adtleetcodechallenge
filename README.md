@@ -18,13 +18,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0438-find-all-anagrams-in-a-string) |
 ## String
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
