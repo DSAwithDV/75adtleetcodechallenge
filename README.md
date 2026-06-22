@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0033-search-in-rotated-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0142-linked-list-cycle-ii) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0148-sort-list) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0905-sort-array-by-parity) |
