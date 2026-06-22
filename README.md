@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0922-sort-array-by-parity-ii) |
