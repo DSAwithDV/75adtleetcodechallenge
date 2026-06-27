@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -179,5 +181,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
