@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0496-next-greater-element-i) |
+| [0724-find-pivot-index](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0905-sort-array-by-parity) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/1480-running-sum-of-1d-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/3427-sum-of-variable-length-subarrays) |
 <!---LeetCode Topics End-->
