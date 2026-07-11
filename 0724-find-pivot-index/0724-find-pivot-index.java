@@ -1,25 +1,18 @@
 class Solution {
     public int pivotIndex(int[] nums) {
-
         int total = 0;
-
-        for (int num : nums) {
-            total += num;
+        for(int num:nums){
+            total+=num;
         }
-
-        int leftSum = 0;
-
-        for (int i = 0; i < nums.length; i++) {
-
-            int rightSum = total - leftSum - nums[i];
-
-            if (leftSum == rightSum) {
+        int left=0;
+        // Check every index
+        for(int i=0;i<nums.length;i++){
+            int right = total-left-nums[i];
+            if(left==right){
                 return i;
             }
-
-            leftSum += nums[i];
+            left+=nums[i];
         }
-
         return -1;
     }
 }
