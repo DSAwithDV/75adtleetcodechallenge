@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1470-shuffle-the-array](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -186,5 +187,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/1732-find-the-highest-altitude) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/3427-sum-of-variable-length-subarrays) |
 <!---LeetCode Topics End-->
