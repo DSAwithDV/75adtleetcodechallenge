@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0033-search-in-rotated-sorted-array) |
+| [0056-merge-intervals](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0152-maximum-product-subarray) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0148-sort-list) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/1732-find-the-highest-altitude) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/3427-sum-of-variable-length-subarrays) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
