@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0303-range-sum-query-immutable) |
+| [0435-non-overlapping-intervals](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0739-daily-temperatures) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0435-non-overlapping-intervals) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0918-maximum-sum-circular-subarray) |
 | [0978-longest-turbulent-subarray](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0978-longest-turbulent-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0148-sort-list) |
+| [0435-non-overlapping-intervals](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0435-non-overlapping-intervals) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0922-sort-array-by-parity-ii) |
@@ -196,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0056-merge-intervals) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
