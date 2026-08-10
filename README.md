@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0922-sort-array-by-parity-ii) |
 | [0978-longest-turbulent-subarray](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0978-longest-turbulent-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1288-remove-covered-intervals](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/1288-remove-covered-intervals) |
 | [1470-shuffle-the-array](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/1732-find-the-highest-altitude) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0922-sort-array-by-parity-ii) |
+| [1288-remove-covered-intervals](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/1288-remove-covered-intervals) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Merge Sort
 |  |
