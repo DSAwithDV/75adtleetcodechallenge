@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0922-sort-array-by-parity-ii) |
 | [0978-longest-turbulent-subarray](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0978-longest-turbulent-subarray) |
+| [0986-interval-list-intersections](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1288-remove-covered-intervals](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/1288-remove-covered-intervals) |
 | [1470-shuffle-the-array](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/1470-shuffle-the-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0922-sort-array-by-parity-ii) |
+| [0986-interval-list-intersections](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0986-interval-list-intersections) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0435-non-overlapping-intervals) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
