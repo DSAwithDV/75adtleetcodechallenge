@@ -14,6 +14,7 @@ class Solution {
                 }
 
             } else {
+
                 stack.push(new int[]{ch, 1});
             }
         }
