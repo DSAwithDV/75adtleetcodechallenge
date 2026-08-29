@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0922-sort-array-by-parity-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0844-backspace-string-compare](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2716-minimize-string-length](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/2716-minimize-string-length) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Prefix Sum
