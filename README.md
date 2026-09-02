@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0739-daily-temperatures) |
@@ -238,4 +239,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0731-my-calendar-ii) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
