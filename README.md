@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
@@ -259,11 +261,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
