@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0125-valid-palindrome) |
+| [0257-binary-tree-paths](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0700-search-in-a-binary-search-tree) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0700-search-in-a-binary-search-tree) |
@@ -339,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
