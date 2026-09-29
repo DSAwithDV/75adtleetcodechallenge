@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0303-range-sum-query-immutable) |
 | [0435-non-overlapping-intervals](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0435-non-overlapping-intervals) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0496-next-greater-element-i) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0435-non-overlapping-intervals) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0905-sort-array-by-parity) |
