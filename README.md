@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0496-next-greater-element-i) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0424-longest-repeating-character-replacement) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0435-non-overlapping-intervals) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0905-sort-array-by-parity) |
