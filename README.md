@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0844-backspace-string-compare) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0844-backspace-string-compare) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0901-online-stock-span) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0435-non-overlapping-intervals) |
 ## Sweep Line
 |  |
