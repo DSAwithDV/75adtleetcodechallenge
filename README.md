@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0965-univalued-binary-tree](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0965-univalued-binary-tree](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0965-univalued-binary-tree](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0965-univalued-binary-tree](https://github.com/DSAwithDV/75adtleetcodechallenge/tree/master/0965-univalued-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
